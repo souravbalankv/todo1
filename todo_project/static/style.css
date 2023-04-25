@@ -1,0 +1,13 @@
+.banner{
+    background-color:dimgray;
+    width :100px%;
+    height:150px;
+    margin-bottam:50px:
+}
+
+.banner-text{
+top:50%;
+left:45%;
+position:absolute;
+transform:transform
+}
